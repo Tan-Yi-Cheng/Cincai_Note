@@ -5,10 +5,11 @@ This is the note that for personal use.<br>
 
 ### Tutorial to write MD file
 1. [GitHub上README.md教程](https://blog.csdn.net/kaitiren/article/details/38513715) (Chinese)
-2. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) (English)
+2. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ### Learning Resourse
 1. [w3cschool](https://www.w3schools.com/)
+2. [runoob.com](https://www.runoob.com/html/html-tutorial.html) (Chinese)
 
 ### Popular Programming Language
 [TIOBE Index for September 2021](https://www.tiobe.com/tiobe-index/) <br>
