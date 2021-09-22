@@ -15,4 +15,9 @@ This is the note that for personal use.<br>
 [Ranking in Github](https://madnight.github.io/githut/#/)
 
 ### Magazine
-1. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) (Chinese)
+1. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) (Chinese) <br>
+<p align="justify">
+  <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
+  <br><strong>HelloGitHub</strong> is to share interesting, entry-level open source projects on GitHub.
+  <br>Interest is the best teacher, you will find the interests of programming here!
+</p>
