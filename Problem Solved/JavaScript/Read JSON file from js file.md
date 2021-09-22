@@ -1,4 +1,4 @@
-# Read JSON file from js file (Sol)
+# Read JSON file from js file
 ![img.png](img.png) <br>
 # Coding
 ``` JavaScript
