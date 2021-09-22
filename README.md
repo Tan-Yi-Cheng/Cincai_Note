@@ -11,8 +11,8 @@ This is the note that for personal use.<br>
 1. [w3cschool](https://www.w3schools.com/)
 
 ### Popular Programming Language
-[TIOBE Index for September 2021](https://githut.info/) <br>
+[TIOBE Index for September 2021](https://www.tiobe.com/tiobe-index/) <br>
 [Ranking in Github](https://madnight.github.io/githut/#/)
 
 ### Magazine
-1. [HelloGitHub](https://www.tiobe.com/tiobe-index/)
+1. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
