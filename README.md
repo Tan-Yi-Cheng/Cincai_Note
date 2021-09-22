@@ -15,4 +15,4 @@ This is the note that for personal use.<br>
 [Ranking in Github](https://madnight.github.io/githut/#/)
 
 ### Magazine
-1. HelloGitHub ([Chinese](https://github.com/521xueweihan/HelloGitHub) / [English](https://github.com/521xueweihan/HelloGitHub/blob/master/README_en.md))
+1. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) (Chinese)
