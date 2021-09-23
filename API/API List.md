@@ -1,4 +1,10 @@
 ### API List
+(Most of the API can be searched in RapidAPI, here are some specific official free API)
 1. [Telegram](https://core.telegram.org/bots/samples)
 2. [Discord](https://discord.com/developers/docs/topics/community-resources#libraries) (half Unofficial)
 3. [WhatsApp](https://github.com/tgalal/yowsup) (Unofficial) (Python)
+4. [Billplz](https://www.billplz.com/developers)
+5. [OpenWeather](https://openweathermap.org/api)
+6. [Air Quality Programmatic](https://aqicn.org/api/)
+7. [Google Map](https://developers.google.com/maps/apis-by-platform)
+8. [Waze](https://developers.google.com/waze/)
