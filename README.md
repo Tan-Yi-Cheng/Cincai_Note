@@ -10,6 +10,7 @@ This is the note that for personal use.<br>
 ### Learning Resourse
 1. [w3cschool](https://www.w3schools.com/)
 2. [runoob.com](https://www.runoob.com/html/html-tutorial.html) (Chinese)
+3. [freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp) <p align="justify">freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p>
 
 ### Popular Programming Language
 [TIOBE Index for September 2021](https://www.tiobe.com/tiobe-index/) <br>
