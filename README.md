@@ -16,6 +16,7 @@ This is the note that for personal use.<br>
 1. [w3cschool](https://www.w3schools.com/)
 2. [runoob.com](https://www.runoob.com/html/html-tutorial.html) (Chinese)
 3. [freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp) ![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f66726565636f646563616d702f776964652d736f6369616c2d62616e6e65722e706e67](https://user-images.githubusercontent.com/80609325/135331268-c8cf3eec-114e-4a76-8871-14512c70581d.png)<p align="justify">freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p>
+4. [HackerRank_solutions](https://github.com/RodneyShag/HackerRank_solutions) <p align="justify">317 efficient solutions to HackerRank problems</p>
 
 ### Popular Programming Language
 [TIOBE Index for September 2021](https://www.tiobe.com/tiobe-index/) <br>
